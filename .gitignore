@@ -1,0 +1,4 @@
+data/raw/
+data/processed/cleaned_pollution.csv
+*.RDataTmp
+*.Rhistory
