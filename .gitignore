@@ -1,4 +1,12 @@
+# Ignore raw and large data
 data/raw/
 data/processed/cleaned_pollution.csv
-*.RDataTmp
-*.Rhistory
+
+# R temporary files
+.Rhistory
+.RData
+.RDataTmp
+
+# OS junk
+.DS_Store
+Thumbs.db
