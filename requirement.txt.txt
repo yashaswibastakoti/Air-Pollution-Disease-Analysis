@@ -1,0 +1,4 @@
+tidyverse
+readr
+dplyr
+ggplot2
